@@ -1,12 +1,12 @@
 [
-{
-"nombre": "Administrador",
-"usuario": "admin",
-"correo": "admin@admin.cl",
-"fechaNacimiento": "1990-01-01", 
-"direccion": "", 
-"clave": "1234",
-"rol": "admin",
-"status": "active"
-}
+  {
+    "nombre": "Administrador",
+    "usuario": "admin",
+    "correo": "admin@admin.cl",
+    "fechaNacimiento": "1990-01-01",
+    "direccion": "",
+    "clave": "1234",
+    "rol": "admin",
+    "status": "active"
+  }
 ]
