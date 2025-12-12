@@ -1,0 +1,10 @@
+[
+{
+"nombre": "Administrador",
+"usuario": "admin",
+"correo": "admin@admin.cl",
+"clave": "1234",
+"rol": "admin",
+"status": "active"
+}
+]
